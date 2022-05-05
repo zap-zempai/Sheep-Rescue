@@ -1,0 +1,17 @@
+Additions in the project:
+- I have finished the second tutorial:
+
+--> hearts come out feeding sheep.
+
+--> There is a score of fed sheep and sheep that have fallen.
+
+--> There is a title menu with the star button to start, quit to close the game. 
+    and if you click on the machine on the side you can select the color to play.
+
+
+- I have added more:
+
+--> two types of extra sheep:
+	- Golden sheep, it's faster than the normal sheep, it gives 5 points and if it falls it doesn't take life.
+	- Black Sheep, it is slower than the normal sheep, but you have to feed it 2 times 
+	  and if it falls it counts as 2 normal sheep.
